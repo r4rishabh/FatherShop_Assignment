@@ -10,7 +10,7 @@
 2. Move into the project directory
 
    ```bash
-   cd Assignment_Fathershop
+   cd Assignment_FatherShop
 
    ```
 
